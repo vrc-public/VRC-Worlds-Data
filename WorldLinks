@@ -1,1 +1,19 @@
-wrld_c7d0c2b1-2f33-4312-9118-49306d040af8
+{
+  "Private Worlds": {
+    "name_ru": "Приватные миры",
+    "name_en": "Private Worlds",
+    "name_ja": "グループ名",
+    "name_zh": "组名", 
+    "name_de": "Deutscher Gruppenname",
+    "worlds": [
+      {
+        "name_ru": "Сохранение аватаров",
+		"name_en": "Avatar Saver",
+        "name_ja": "ワールド名",
+        "name_zh": "世界名称",
+        "name_de": "Deutscher Weltname",
+        "id": "wrld_c7d0c2b1-2f33-4312-9118-49306d040af8"
+      }
+    ]
+  }
+}
