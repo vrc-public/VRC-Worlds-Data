@@ -1,10 +1,10 @@
 {
   "Public Worlds": {
-    "name_ru": "Приватные миры",
-    "name_en": "Private Worlds",
-    "name_ja": "グループ名",
-    "name_zh": "组名", 
-    "name_de": "Deutscher Gruppenname",
+    "name_ru": "Публичные миры",
+	"name_en": "Public Worlds",
+	"name_ja": "パブリックワールド",
+	"name_zh": "公开世界",
+	"name_de": "Öffentliche Welten",
     "worlds": [
       {
         "name_ru": "Сохранение аватаров",
