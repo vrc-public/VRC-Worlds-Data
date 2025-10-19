@@ -15,5 +15,23 @@
         "id": "wrld_c7d0c2b1-2f33-4312-9118-49306d040af8"
       }
     ]
+  },
+  
+  "Private Worlds": {
+    "name_ru": "Приватные миры",
+    "name_en": "Private Worlds",
+    "name_ja": "グループ名",
+    "name_zh": "组名", 
+    "name_de": "Deutscher Gruppenname",
+    "worlds": [
+      {
+        "name_ru": "Правда Или Действие\n(Зима 2022) (АРХИВ)",
+		"name_en": "Правда Или Действие\n(Зима 2022) (АРХИВ)",
+        "name_ja": "",
+        "name_zh": "",
+        "name_de": "",
+        "id": "wrld_93c3c925-4b48-49d3-8db5-e32e6c33072a"
+      }
+    ]
   }
 }
